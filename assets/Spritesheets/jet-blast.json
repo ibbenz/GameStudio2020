@@ -1,0 +1,591 @@
+{
+  "frames": {
+    "JetBlast.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 494,
+        "h": 317
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 6,
+        "w": 494,
+        "h": 317
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast17.png": {
+      "frame": {
+        "x": 0,
+        "y": 317,
+        "w": 494,
+        "h": 318
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 494,
+        "h": 318
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast1.png": {
+      "frame": {
+        "x": 494,
+        "y": 0,
+        "w": 494,
+        "h": 309
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 494,
+        "h": 309
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast11.png": {
+      "frame": {
+        "x": 0,
+        "y": 635,
+        "w": 492,
+        "h": 317
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 492,
+        "h": 317
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast8.png": {
+      "frame": {
+        "x": 494,
+        "y": 309,
+        "w": 494,
+        "h": 316
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 494,
+        "h": 316
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast12.png": {
+      "frame": {
+        "x": 988,
+        "y": 0,
+        "w": 494,
+        "h": 313
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 9,
+        "w": 494,
+        "h": 313
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast14.png": {
+      "frame": {
+        "x": 0,
+        "y": 952,
+        "w": 494,
+        "h": 317
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 494,
+        "h": 317
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast15.png": {
+      "frame": {
+        "x": 494,
+        "y": 625,
+        "w": 494,
+        "h": 312
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 494,
+        "h": 312
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast16.png": {
+      "frame": {
+        "x": 988,
+        "y": 313,
+        "w": 494,
+        "h": 310
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 494,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast21.png": {
+      "frame": {
+        "x": 1482,
+        "y": 0,
+        "w": 494,
+        "h": 309
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 494,
+        "h": 309
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast20.png": {
+      "frame": {
+        "x": 0,
+        "y": 1269,
+        "w": 484,
+        "h": 317
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 6,
+        "w": 484,
+        "h": 317
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast23.png": {
+      "frame": {
+        "x": 494,
+        "y": 937,
+        "w": 494,
+        "h": 317
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 6,
+        "w": 494,
+        "h": 317
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast22.png": {
+      "frame": {
+        "x": 988,
+        "y": 623,
+        "w": 494,
+        "h": 313
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 6,
+        "w": 494,
+        "h": 313
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast18.png": {
+      "frame": {
+        "x": 1482,
+        "y": 309,
+        "w": 493,
+        "h": 310
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 11,
+        "w": 493,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast3.png": {
+      "frame": {
+        "x": 0,
+        "y": 1586,
+        "w": 487,
+        "h": 316
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 7,
+        "w": 487,
+        "h": 316
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast5.png": {
+      "frame": {
+        "x": 494,
+        "y": 1254,
+        "w": 490,
+        "h": 316
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 5,
+        "w": 490,
+        "h": 316
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast6.png": {
+      "frame": {
+        "x": 988,
+        "y": 936,
+        "w": 492,
+        "h": 315
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 8,
+        "w": 492,
+        "h": 315
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast4.png": {
+      "frame": {
+        "x": 1482,
+        "y": 619,
+        "w": 491,
+        "h": 309
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 10,
+        "w": 491,
+        "h": 309
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast2.png": {
+      "frame": {
+        "x": 984,
+        "y": 1254,
+        "w": 487,
+        "h": 315
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 5,
+        "w": 487,
+        "h": 315
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast9.png": {
+      "frame": {
+        "x": 487,
+        "y": 1570,
+        "w": 491,
+        "h": 315
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 8,
+        "w": 491,
+        "h": 315
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast7.png": {
+      "frame": {
+        "x": 1480,
+        "y": 936,
+        "w": 491,
+        "h": 309
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 9,
+        "w": 491,
+        "h": 309
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast19.png": {
+      "frame": {
+        "x": 984,
+        "y": 1569,
+        "w": 488,
+        "h": 312
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 6,
+        "w": 488,
+        "h": 312
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast10.png": {
+      "frame": {
+        "x": 1480,
+        "y": 1245,
+        "w": 491,
+        "h": 309
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 8,
+        "w": 491,
+        "h": 309
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JetBlast13.png": {
+      "frame": {
+        "x": 1472,
+        "y": 1554,
+        "w": 491,
+        "h": 309
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 7,
+        "w": 491,
+        "h": 309
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.5",
+    "image": "jet-blast.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1976,
+      "h": 1902
+    },
+    "scale": 1
+  }
+}

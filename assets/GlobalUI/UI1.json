@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "UI1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2000,
+				"h": 1573
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "PlayHomeButtonHolder.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 90
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 90
+					}
+				},
+				{
+					"filename": "MainMenuBase1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 679,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 679,
+						"h": 350
+					},
+					"frame": {
+						"x": 160,
+						"y": 0,
+						"w": 679,
+						"h": 350
+					}
+				},
+				{
+					"filename": "surroundingWindow.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 350
+					},
+					"frame": {
+						"x": 839,
+						"y": 0,
+						"w": 512,
+						"h": 350
+					}
+				},
+				{
+					"filename": "PauseMenuHolder.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 700,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 700,
+						"h": 450
+					},
+					"frame": {
+						"x": 0,
+						"y": 350,
+						"w": 700,
+						"h": 450
+					}
+				},
+				{
+					"filename": "bg_menu_base.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 350,
+						"h": 509
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 350,
+						"h": 509
+					},
+					"frame": {
+						"x": 700,
+						"y": 350,
+						"w": 350,
+						"h": 509
+					}
+				},
+				{
+					"filename": "pogologo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 950,
+						"h": 550
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 950,
+						"h": 550
+					},
+					"frame": {
+						"x": 1050,
+						"y": 350,
+						"w": 950,
+						"h": 550
+					}
+				},
+				{
+					"filename": "ShopContainer.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1024,
+						"h": 583
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1024,
+						"h": 583
+					},
+					"frame": {
+						"x": 0,
+						"y": 900,
+						"w": 1024,
+						"h": 583
+					}
+				},
+				{
+					"filename": "UIContainer.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 407,
+						"h": 673
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 407,
+						"h": 673
+					},
+					"frame": {
+						"x": 1024,
+						"y": 900,
+						"w": 407,
+						"h": 673
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3b7e2b036534e8b0dc15adabbb3ba91f:2a5c96450b6239612961d68f091e760b:1c3b44b14b3edee687d1599b239971c9$"
+	}
+}

@@ -1,0 +1,314 @@
+{
+	"textures": [
+		{
+			"image": "atlas_small_background-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1783,
+				"h": 1659
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Parallax.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1445,
+						"h": 1445
+					},
+					"spriteSourceSize": {
+						"x": 401,
+						"y": 0,
+						"w": 642,
+						"h": 1445
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 642,
+						"h": 1445
+					}
+				},
+				{
+					"filename": "frontfloor.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 407,
+						"w": 1024,
+						"h": 210
+					},
+					"frame": {
+						"x": 1,
+						"y": 1448,
+						"w": 1024,
+						"h": 210
+					}
+				},
+				{
+					"filename": "SPR_Cloud03.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					},
+					"frame": {
+						"x": 645,
+						"y": 1,
+						"w": 512,
+						"h": 512
+					}
+				},
+				{
+					"filename": "mountain1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 623,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 623,
+						"h": 429
+					},
+					"frame": {
+						"x": 645,
+						"y": 515,
+						"w": 623,
+						"h": 429
+					}
+				},
+				{
+					"filename": "SPR_BG_Rock01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 409
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 409
+					},
+					"frame": {
+						"x": 1159,
+						"y": 1,
+						"w": 567,
+						"h": 409
+					}
+				},
+				{
+					"filename": "SPR_BG_Clouds.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1024,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1024,
+						"h": 128
+					},
+					"frame": {
+						"x": 645,
+						"y": 946,
+						"w": 1024,
+						"h": 128
+					}
+				},
+				{
+					"filename": "mountain2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 425,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 421,
+						"h": 299
+					},
+					"frame": {
+						"x": 1270,
+						"y": 412,
+						"w": 421,
+						"h": 299
+					}
+				},
+				{
+					"filename": "SPR_Cloud01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 216
+					},
+					"frame": {
+						"x": 1270,
+						"y": 713,
+						"w": 512,
+						"h": 216
+					}
+				},
+				{
+					"filename": "SPR_BG_Hills.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1024,
+						"h": 117
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1024,
+						"h": 117
+					},
+					"frame": {
+						"x": 645,
+						"y": 1076,
+						"w": 1024,
+						"h": 117
+					}
+				},
+				{
+					"filename": "SPR_Cloud02.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 257
+					},
+					"frame": {
+						"x": 1027,
+						"y": 1195,
+						"w": 512,
+						"h": 257
+					}
+				},
+				{
+					"filename": "SPR_BG_Rock02.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 223,
+						"h": 386
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 223,
+						"h": 386
+					},
+					"frame": {
+						"x": 1541,
+						"y": 1195,
+						"w": 223,
+						"h": 386
+					}
+				},
+				{
+					"filename": "SPR_BG_Moon.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 185,
+						"h": 185
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 185,
+						"h": 185
+					},
+					"frame": {
+						"x": 645,
+						"y": 1195,
+						"w": 185,
+						"h": 185
+					}
+				},
+				{
+					"filename": "SPR_BG_Tree.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 173
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 173
+					},
+					"frame": {
+						"x": 832,
+						"y": 1195,
+						"w": 128,
+						"h": 173
+					}
+				},
+				{
+					"filename": "SPR_BG_Shrub.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1027,
+						"y": 1454,
+						"w": 128,
+						"h": 128
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ac5eee9242c10c0fa3bf40f8a5fb7849:250385e02466e2848ec44f1de809cbb3:632760e0390dbdd707f44a760dcd154f$"
+	}
+}
