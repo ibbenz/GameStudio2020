@@ -1,0 +1,12 @@
+{
+    "resources": [
+      "./assets/SoundFiles/SoundEffects/jetfast.mp3"
+    ],
+    "spritemap": {
+      "jetjetjet": {
+        "start": 0,
+        "end": 1,
+        "loop": true
+      }
+    }
+  }

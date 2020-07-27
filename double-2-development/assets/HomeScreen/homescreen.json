@@ -1,0 +1,419 @@
+{
+	"textures": [
+		{
+			"image": "homescreen.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1685,
+				"h": 1325
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "TextContainerLevel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 84,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 52
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 52
+					}
+				},
+				{
+					"filename": "TextContainerScore.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 244,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 244,
+						"h": 52
+					},
+					"frame": {
+						"x": 84,
+						"y": 0,
+						"w": 244,
+						"h": 52
+					}
+				},
+				{
+					"filename": "TextContainerCoinCount.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 54
+					},
+					"frame": {
+						"x": 328,
+						"y": 0,
+						"w": 178,
+						"h": 54
+					}
+				},
+				{
+					"filename": "LevelText.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 164,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 59
+					},
+					"frame": {
+						"x": 506,
+						"y": 0,
+						"w": 164,
+						"h": 59
+					}
+				},
+				{
+					"filename": "DistanceText.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 350,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 350,
+						"h": 70
+					},
+					"frame": {
+						"x": 670,
+						"y": 0,
+						"w": 350,
+						"h": 70
+					}
+				},
+				{
+					"filename": "HighscoreText.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 70
+					},
+					"frame": {
+						"x": 1020,
+						"y": 0,
+						"w": 340,
+						"h": 70
+					}
+				},
+				{
+					"filename": "MenuShopRoof.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 226,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 226,
+						"h": 90
+					},
+					"frame": {
+						"x": 1360,
+						"y": 0,
+						"w": 226,
+						"h": 90
+					}
+				},
+				{
+					"filename": "controlsNavigate.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 99,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 99,
+						"h": 96
+					},
+					"frame": {
+						"x": 1586,
+						"y": 0,
+						"w": 99,
+						"h": 96
+					}
+				},
+				{
+					"filename": "CoinIcon.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 96,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "PlayButton.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 250,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 250,
+						"h": 250
+					},
+					"frame": {
+						"x": 128,
+						"y": 96,
+						"w": 250,
+						"h": 250
+					}
+				},
+				{
+					"filename": "ShopButton.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 250,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 250,
+						"h": 250
+					},
+					"frame": {
+						"x": 378,
+						"y": 96,
+						"w": 250,
+						"h": 250
+					}
+				},
+				{
+					"filename": "MissionText.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1024,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1024,
+						"h": 256
+					},
+					"frame": {
+						"x": 628,
+						"y": 96,
+						"w": 1024,
+						"h": 256
+					}
+				},
+				{
+					"filename": "PlayText.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 256
+					},
+					"frame": {
+						"x": 0,
+						"y": 352,
+						"w": 512,
+						"h": 256
+					}
+				},
+				{
+					"filename": "ShopButtonHolder.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"frame": {
+						"x": 512,
+						"y": 352,
+						"w": 256,
+						"h": 256
+					}
+				},
+				{
+					"filename": "PlayButtonHighlighted.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 300
+					},
+					"frame": {
+						"x": 768,
+						"y": 352,
+						"w": 300,
+						"h": 300
+					}
+				},
+				{
+					"filename": "PlayButtonHolder.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 300
+					},
+					"frame": {
+						"x": 1068,
+						"y": 352,
+						"w": 300,
+						"h": 300
+					}
+				},
+				{
+					"filename": "ShopButtonHighlighted.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 300
+					},
+					"frame": {
+						"x": 1368,
+						"y": 352,
+						"w": 300,
+						"h": 300
+					}
+				},
+				{
+					"filename": "pogologo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 950,
+						"h": 550
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 950,
+						"h": 550
+					},
+					"frame": {
+						"x": 0,
+						"y": 652,
+						"w": 950,
+						"h": 550
+					}
+				},
+				{
+					"filename": "UIContainer.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 407,
+						"h": 673
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 407,
+						"h": 673
+					},
+					"frame": {
+						"x": 950,
+						"y": 652,
+						"w": 407,
+						"h": 673
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:bd2183ad96819eb1d186e0556290a914:f5a97e4e07c34689c9b54ee217a1a440:59fe12f3d1061d5cdbe89476d4add897$"
+	}
+}

@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "Enemy_Acessoires_sprite.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 102,
+				"h": 188
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Propellor_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 94,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 94,
+						"h": 36
+					}
+				},
+				{
+					"filename": "MoverRange_Mid.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 4,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 4,
+						"h": 62
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 4,
+						"h": 62
+					}
+				},
+				{
+					"filename": "Propellor_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 94,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 39,
+						"w": 94,
+						"h": 33
+					}
+				},
+				{
+					"filename": "Propellor_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 5,
+						"w": 79,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 74,
+						"w": 79,
+						"h": 33
+					}
+				},
+				{
+					"filename": "MoverRange_Edge.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 82,
+						"y": 74,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "MoverRange_Edge_v2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 82,
+						"y": 92,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Propellor_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 78,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 109,
+						"w": 78,
+						"h": 38
+					}
+				},
+				{
+					"filename": "Propellor_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 0,
+						"w": 46,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 149,
+						"w": 46,
+						"h": 38
+					}
+				},
+				{
+					"filename": "Propellor_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 1,
+						"w": 48,
+						"h": 37
+					},
+					"frame": {
+						"x": 49,
+						"y": 149,
+						"w": 48,
+						"h": 37
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f8051b9eee4722f27e9524aadacefd10:c48073dadd4ec7ca34d7d24eac7ae46f:7e06e4835ccf17a93e406f8461dd360f$"
+	}
+}
